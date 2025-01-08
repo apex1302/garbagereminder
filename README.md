@@ -2,6 +2,9 @@
 Don't forget to put out the trash. ESP8266 OLED reminder (for Esslingen)
 
 
+![IMG_20250108_155158165_HDR](https://github.com/user-attachments/assets/7645b1aa-8f41-40b8-ac0a-21d00888c02d)
+
+
 ESP8266_OLED_HW-364A Trash Pickup Calendar Program
 Welcome to your new favorite way of keeping track of trash pickups (who knew it could be so exciting?)! This program is designed specifically for the ESP8266_OLED_HW-364A board, which comes with a nifty OLED display for showing off your trash schedule.
 
