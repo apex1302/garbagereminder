@@ -16,7 +16,7 @@ This program gets your ICL Calendar from AWB-ES so that you’ll never miss a tr
 
 Setup Instructions:
 Change the aipUrl: You'll need to adjust the aipUrl to match your own trash schedule’s .ics file. You can grab it here:
-AWB-ES Trash Schedule
+https://www.awb-es.de/abfuhr/abfuhrtermine/abfuhrtermine-suchen.html
 
 For some LED bling: Want a flashing light when it’s trash day? Sure! Just hook up an LED to D2 and Ground, and you’ll have your very own optical alarm.
 
